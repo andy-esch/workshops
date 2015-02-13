@@ -1,3 +1,5 @@
+**This repo is no longer maintained. Please visit http://github.com/CartoDB/training for the active repo**
+
 ##CDB WORKSHOPS
 *repo for workshop materials from the CartoDB community team*
 
