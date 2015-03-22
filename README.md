@@ -1,6 +1,8 @@
 **This repo is no longer maintained. Please visit http://github.com/CartoDB/training for the active repo**
 
 ##CDB WORKSHOPS
+
+[![Join the chat at https://gitter.im/ohasselblad/workshops](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ohasselblad/workshops?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 *repo for workshop materials from the CartoDB community team*
 
 ###STRUCTURE
